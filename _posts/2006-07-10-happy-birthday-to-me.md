@@ -8,6 +8,7 @@ permalink: /2006/07/10/happy-birthday-to-me
 categories:
     - Uncategorized
 ---
+![](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
 Well, today is my 40th birthday.  I'm not sure what to think.  I guess
 I'm just 40.  So what, I am still young.  Josh lost his last baby
