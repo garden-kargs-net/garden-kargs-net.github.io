@@ -10,7 +10,7 @@ categories:
 ---
 ![](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-![](http://garden.kargs.net/wp-content/uploads/.thumbs/.IMG_2760.JPG)
+![](http://garden.kargs.net/wp-content/uploads/thumbs/IMG_2760.JPG)
 
 As we were traveling back to Georgia, we were given a beautiful sunset as we crossed into Mississippi.
 Enjoy!!!
