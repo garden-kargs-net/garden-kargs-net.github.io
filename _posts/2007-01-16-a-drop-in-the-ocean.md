@@ -8,7 +8,9 @@ permalink: 2007/01/16/a-drop-in-the-ocean
 categories:
     - Uncategorized
 ---
-![](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
+![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
+
+[![Polarbear](http://garden.kargs.net/wp-content/uploads/thumbs/PolarBear.JPG)](http://garden.kargs.net/wp-content/uploads/PolarBear.JPG)
 
 We are reading aloud “Polar Bear, Polar Bear, what do you hear?” Each day is a different animal that we then study about. We do a coloring page on that animal too! I got the idea from the website, [DLTK’s Crafts for Kids](http://www.dltk-teach.com/books/brownbear/sequel.htm). The kids love coloring the pictures, which are big and simple. They also like learning facts about each animal!
 

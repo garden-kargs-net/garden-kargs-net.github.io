@@ -8,9 +8,9 @@ permalink: 2007/02/01/home-sweet-home
 categories:
     - Uncategorized
 ---
-![](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
+![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-![](http://garden.kargs.net/wp-content/uploads/thumbs/IMG_2066.JPG)
+[![Dallas](http://garden.kargs.net/wp-content/uploads/thumbs/IMG_2066.JPG)](http://garden.kargs.net/wp-content/uploads/IMG_2066.JPG)
 
 We arrived back home last night from Dallas Ft. Worth area. It was a long trip. The kids did fine for the first 8 hours on the road. Then, it got a little rocky. We made it though, safe and sound. We did some sightseeing while Steve went to work every day. The kids had a good time.
 

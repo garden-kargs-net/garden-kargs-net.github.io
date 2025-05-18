@@ -8,15 +8,15 @@ permalink: 2007/02/02/beautiful-sunset
 categories:
     - Uncategorized
 ---
-![](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
+![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-![](http://garden.kargs.net/wp-content/uploads/thumbs/IMG_2760.JPG)
+[![Mississippi](http://garden.kargs.net/wp-content/uploads/thumbs/IMG_2760.JPG)](http://garden.kargs.net/wp-content/uploads/IMG_2760.JPG)
 
 As we were traveling back to Georgia, we were given a beautiful sunset as we crossed into Mississippi.
 Enjoy!!!
 
 *"When I admire the wonder of a sunset or the beauty of the moon, my soul expands in worship of the Creator" ~Mahatma Gandhi*
 
-![](http://garden.kargs.net/wp-content/uploads/sunset_over_mississippi_512.jpg)
+![Mississippi Sunset](http://garden.kargs.net/wp-content/uploads/sunset_over_mississippi_512.jpg)
 
-![](http://garden.kargs.net/wp-content/uploads/sunset_over_mississippi_bridge_512.jpg)
+![Mississippi Bridge](http://garden.kargs.net/wp-content/uploads/sunset_over_mississippi_bridge_512.jpg)
