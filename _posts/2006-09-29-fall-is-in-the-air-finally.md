@@ -2,7 +2,7 @@
 id: 7
 title: 'Fall is in the air!!! Finally....'
 date: '2006-09-29T21:19:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2006/09/29/fall-is-in-the-air-finally
 categories:

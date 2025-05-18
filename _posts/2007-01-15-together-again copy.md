@@ -2,7 +2,7 @@
 id: 13
 title: 'Together again...'
 date: '2007-01-11T16:25:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2007/01/15/together-again
 categories:

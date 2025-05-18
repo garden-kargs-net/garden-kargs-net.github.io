@@ -2,7 +2,7 @@
 id: 5
 title: 'plugging along'
 date: '2006-08-09T22:08:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2006/08/09/plugging-along
 categories:

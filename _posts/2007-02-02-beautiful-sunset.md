@@ -2,7 +2,7 @@
 id: 19
 title: 'Beautiful sunset...'
 date: '2007-02-02T16:25:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2007/02/02/beautiful-sunset
 categories:

@@ -2,7 +2,7 @@
 id: 17
 title: 'Home sweet home...'
 date: '2007-02-01T16:25:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2007/02/01/home-sweet-home
 categories:

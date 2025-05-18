@@ -2,7 +2,7 @@
 id: 15
 title: 'Life is a promise...'
 date: '2007-01-22T16:25:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2007/01/22/life-is-a-promise
 categories:

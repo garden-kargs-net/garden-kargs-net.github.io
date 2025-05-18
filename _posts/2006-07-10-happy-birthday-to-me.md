@@ -2,7 +2,7 @@
 id: 3
 title: 'Happy Birthday to me...'
 date: '2006-07-10T12:00:00-06:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: /2006/07/10/happy-birthday-to-me
 categories:

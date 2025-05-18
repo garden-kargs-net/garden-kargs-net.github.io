@@ -2,7 +2,7 @@
 id: 9
 title: 'Gratitude...'
 date: '2006-11-22T17:01:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2006/11/22/gratitude
 categories:

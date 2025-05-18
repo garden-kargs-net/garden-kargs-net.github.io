@@ -2,7 +2,7 @@
 id: 13
 title: 'A Drop in the ocean...'
 date: '2007-01-16T16:25:00-05:00'
-author: pkarg
+author: Patricia Karg
 layout: post
 permalink: 2007/01/16/a-drop-in-the-ocean
 categories:
