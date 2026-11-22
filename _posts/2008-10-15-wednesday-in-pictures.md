@@ -10,72 +10,72 @@ categories:
 ---
 ![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2861-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2861/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2861-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2861.jpg)
 
 				Even more signs of Fall… in our front yard.  This bush lines our property, not sure what it is…
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2864-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2864/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2864-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2864.jpg)
 
 				“Look at me, Mom”
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2865-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2865/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2865-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2865.jpg)
 
 				We saw this “ball” in the sky this morning on the way to school! Good morning Moon!
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2866-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2866/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2866-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2866.jpg)
 
 				Looks like rain…
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2870-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2870/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2870-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2870.jpg)
 
 				Christopher at the park
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2871-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2871/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2871-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2871.jpg)
 
 				Beauty through the tall pines…
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2872-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2872/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2872-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2872.jpg)
 
 				More signs of Fall…
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2874-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2874/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2874-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2874.jpg)
 
 				signs of Fall…
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2879-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2879/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2879-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2879.jpg)
 
 				Interesting rock formations
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2880-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2880/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2880-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2880.jpg)
 
 				Interesting tree stump with roots at our local park
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2883-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2883/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2883-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2883.jpg)
 
 				Sweetgum balls that Anna says come from the “bubblegum”(instead of sweetgum) tree
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2886-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2886/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2886-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2886.jpg)
 
 				Smile!
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2895-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2895/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2895-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2895.jpg)
 
 				Fine specimens for our leaf rubbings
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2876-150x150.jpg)](http://garden.kargs.net/2008/10/15/wednesday-in-pictures/resized_cimg2876/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2876-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg2876.jpg)
 
 				He has good balance!
 

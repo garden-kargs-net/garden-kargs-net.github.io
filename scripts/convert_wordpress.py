@@ -3,11 +3,31 @@ import os
 import re
 import html
 import json
+import glob
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 BACKUP_DIR = "/home/skarg/Documents/Websites/garden.kargs.net"
 POSTS_DIR = "/home/skarg/Code/garden-kargs-net.github.io/_posts"
+
+# Load media attachment lookup map
+MEDIA_DIR = os.path.join(BACKUP_DIR, "wp-json/wp/v2/media")
+MEDIA_MAP = {}
+if os.path.exists(MEDIA_DIR):
+    for mp in glob.glob(f"{MEDIA_DIR}/*"):
+        try:
+            with open(mp) as mfp:
+                md = json.load(mfp)
+            mlink = md.get("link", "").replace("https://", "http://").rstrip("/")
+            msrc = md.get("source_url", "").replace("https://", "http://")
+            mslug = md.get("slug", "")
+            if mlink:
+                MEDIA_MAP[mlink] = msrc
+                MEDIA_MAP[mlink + "/"] = msrc
+            if mslug:
+                MEDIA_MAP[mslug] = msrc
+        except Exception:
+            pass
 
 def clean_text(s):
     if not s:
@@ -34,6 +54,19 @@ def normalize_url(url):
         url = "http://garden.kargs.net" + url
     url = url.replace(".thumbs/.", "thumbs/")
     url = url.replace("https://garden.kargs.net/", "http://garden.kargs.net/")
+    
+    # Check if this URL is a WordPress media attachment page
+    clean_url = url.rstrip("/")
+    if clean_url in MEDIA_MAP:
+        return MEDIA_MAP[clean_url]
+    if clean_url + "/" in MEDIA_MAP:
+        return MEDIA_MAP[clean_url + "/"]
+    slug = clean_url.split("/")[-1]
+    if slug in MEDIA_MAP and ("wp-content" not in clean_url):
+        parts = clean_url.replace("http://garden.kargs.net/", "").split("/")
+        if len(parts) >= 4:
+            return MEDIA_MAP[slug]
+
     return url
 
 def elem_to_markdown(elem):
@@ -290,6 +323,37 @@ categories:
     filename = f"{year}-{month}-{day}-{slug}.md"
     return filename, full_content
 
+def fix_attachment_links_in_posts():
+    """Find and fix any remaining attachment page links in existing markdown files."""
+    posts = sorted(glob.glob(f"{POSTS_DIR}/*.md"))
+    fixed_count = 0
+    total_replaced = 0
+
+    for post_path in posts:
+        with open(post_path, "r", encoding="utf-8") as fp:
+            content = fp.read()
+
+        def replace_link(match):
+            nonlocal total_replaced
+            href = match.group(1)
+            clean_href = href.rstrip("/")
+            target = MEDIA_MAP.get(clean_href) or MEDIA_MAP.get(clean_href + "/")
+            if not target:
+                slug = clean_href.split("/")[-1]
+                target = MEDIA_MAP.get(slug)
+            if target:
+                total_replaced += 1
+                return f"]({target})"
+            return match.group(0)
+
+        new_content = re.sub(r"\]\((http://garden\.kargs\.net/[^)]+)\)", replace_link, content)
+        if new_content != content:
+            fixed_count += 1
+            with open(post_path, "w", encoding="utf-8") as fp:
+                fp.write(new_content)
+
+    print(f"Fixed {total_replaced} attachment links across {fixed_count} post files.")
+
 def run_all(dry_run=True):
     posts = []
     for p in os.listdir(f"{BACKUP_DIR}/wp-json/wp/v2/posts"):
@@ -297,7 +361,6 @@ def run_all(dry_run=True):
             posts.append(json.load(fp))
 
     posts.sort(key=lambda x: x["date"])
-
     existing_files = set(os.listdir(POSTS_DIR))
     
     converted = 0
@@ -305,20 +368,13 @@ def run_all(dry_run=True):
     
     for p in posts:
         fname, content = convert_post(p)
-        
-        # Check if already exists (by exact filename, or date match in existing files)
         date_prefix = p["date"][:10]
-        # Only skip if a post from that date already exists in the original 28 posts
         already_there = any(f.startswith(date_prefix) for f in existing_files)
         
         if already_there:
-            # Special case: check if it's one of the 2006-2007 posts already committed
-            # Note: 2006-07-10 had two posts (hello-world and happy-birthday-to-me)
-            # Check exact filename
             if fname in existing_files:
                 skipped += 1
                 continue
-            # For 2007-03-20, pansy-parade was used instead of spring-is-officially-here
             if fname == "2007-03-20-spring-is-officially-here.md" and "2007-03-20-pansy-parade.md" in existing_files:
                 skipped += 1
                 continue
@@ -341,5 +397,9 @@ def run_all(dry_run=True):
 
 if __name__ == "__main__":
     import sys
-    dry = "--dry-run" in sys.argv
-    run_all(dry_run=dry)
+    if "--fix-links" in sys.argv:
+        fix_attachment_links_in_posts()
+    else:
+        dry = "--dry-run" in sys.argv
+        run_all(dry_run=dry)
+        fix_attachment_links_in_posts()

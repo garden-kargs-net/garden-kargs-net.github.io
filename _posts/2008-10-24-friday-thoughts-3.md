@@ -64,6 +64,6 @@ O’er their heads.*
 
 Picture thoughts I thought worth sharing…
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg3032-150x150.jpg)](http://garden.kargs.net/2008/10/24/friday-thoughts-3/resized_cimg3032/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg3032-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_cimg3032.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_resized_cimg2961-150x150.jpg)](http://garden.kargs.net/2008/10/24/friday-thoughts-3/resized_resized_cimg2961/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/10/resized_resized_cimg2961-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/10/resized_resized_cimg2961.jpg)

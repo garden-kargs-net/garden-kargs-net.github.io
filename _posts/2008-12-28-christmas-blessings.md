@@ -12,32 +12,32 @@ categories:
 
 We had a wonderful Christmas here!  I wanted to share some photos:
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_christmastree08-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_christmastree08/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_christmastree08-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_christmastree08.jpg)
 
 				Our tree….
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0094-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_img_0094/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0094-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0094.jpg)
 
 				Christmas joy!
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0107-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_img_0107/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0107-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_0107.jpg)
 
 				Wonderful sister helping her little brother… Isn’t that sweet?
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3005-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_img_3005/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3005-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3005.jpg)
 
 				Anna got her elf… a little late!  Better late than never!
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3011-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_img_3011/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3011-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3011.jpg)
 
 				Before…waiting patiently…
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3015-150x150.jpg)](http://garden.kargs.net/2008/12/28/christmas-blessings/resized_img_3015/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3015-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/12/resized_img_3015.jpg)
 
 				Wonder what’s in here?
 

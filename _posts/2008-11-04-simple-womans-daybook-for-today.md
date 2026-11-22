@@ -68,6 +68,6 @@ categories:
 
 A couple of picture thoughts worth sharing…
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3202-150x150.jpg)](http://garden.kargs.net/2008/11/04/simple-womans-daybook-for-today/resized_cimg3202/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3202-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3202.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3208-150x150.jpg)](http://garden.kargs.net/2008/11/04/simple-womans-daybook-for-today/resized_cimg3208/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3208-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3208.jpg)

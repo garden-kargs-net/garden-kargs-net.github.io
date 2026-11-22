@@ -12,9 +12,9 @@ categories:
 
 We woke up to this today…
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4171-150x150.jpg)](http://garden.kargs.net/2009/03/01/snow-in-the-south/resized_cimg4171/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4171-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4171.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4172-150x150.jpg)](http://garden.kargs.net/2009/03/01/snow-in-the-south/resized_cimg4172/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4172-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_cimg4172.jpg)
 
 ### 1 Response to Snow in the south!
 

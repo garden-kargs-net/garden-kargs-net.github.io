@@ -10,11 +10,11 @@ categories:
 ---
 ![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24401-150x150.jpg)](http://garden.kargs.net/2008/09/10/nature-photos/resized_cimg24401/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24401-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24401.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24661-150x150.jpg)](http://garden.kargs.net/2008/09/10/nature-photos/resized_cimg24661/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24661-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg24661.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg21641-150x150.jpg)](http://garden.kargs.net/2008/09/10/nature-photos/resized_cimg21641/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg21641-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg21641.jpg)
 
 ### 1 Response to Nature photos…
 

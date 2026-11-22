@@ -14,19 +14,19 @@ It is September, but feels more like August here in the south.  I can sense fall
 
 I wanted to share some recent photos.
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2414-150x150.jpg)](http://garden.kargs.net/2008/09/10/september-and-fall-is-upon-us/resized_cimg2414/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2414-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2414.jpg)
 
 				Christopher checking Anna’s mouth with his pretend doctor light!
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2422-150x150.jpg)](http://garden.kargs.net/2008/09/10/september-and-fall-is-upon-us/resized_cimg2422/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2422-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2422.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2429-150x150.jpg)](http://garden.kargs.net/2008/09/10/september-and-fall-is-upon-us/resized_cimg2429/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2429-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2429.jpg)
 
   
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2430-150x150.jpg)](http://garden.kargs.net/2008/09/10/september-and-fall-is-upon-us/resized_cimg2430/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2430-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2430.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2433-150x150.jpg)](http://garden.kargs.net/2008/09/10/september-and-fall-is-upon-us/resized_cimg2433/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2433-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/09/resized_cimg2433.jpg)
 
 				Anna and Christopher at the Library kissing the fish!

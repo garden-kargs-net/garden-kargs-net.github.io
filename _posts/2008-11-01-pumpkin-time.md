@@ -30,6 +30,6 @@ See the candle light shine.*
 
 ~author unknown  
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3165-150x150.jpg)](http://garden.kargs.net/2008/11/01/pumpkin-time/resized_cimg3165/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3165-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3165.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3168-150x150.jpg)](http://garden.kargs.net/2008/11/01/pumpkin-time/resized_cimg3168/)
+[![](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3168-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2008/11/resized_cimg3168.jpg)

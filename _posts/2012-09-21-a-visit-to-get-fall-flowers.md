@@ -10,16 +10,16 @@ categories:
 ---
 ![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0092-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0092/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0092-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0092.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0091-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0091/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0091-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0091.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0072-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0072/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0072-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0072.jpg)
 
   
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0074-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0074/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0074-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0074.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0079-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0079/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0079-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0079.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0088-150x150.jpg)](http://garden.kargs.net/2012/09/21/a-visit-to-get-fall-flowers/dscn0088/)
+[![](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0088-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2012/09/DSCN0088.jpg)

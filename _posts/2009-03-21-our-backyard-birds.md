@@ -10,32 +10,32 @@ categories:
 ---
 ![Azalea](http://garden.kargs.net/wp-content/uploads/2013/04/cropped-IMAG8993.jpg)
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/downywoodpecker1-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/downywoodpecker1/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/downywoodpecker1-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/downywoodpecker1.jpg)
 
 				Female downy woodpecker
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3482-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/resized_img_3482/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3482-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3482.jpg)
 
 				Carolina Chickadee
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3503-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/resized_img_3503/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3503-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3503.jpg)
 
 				Female red-bellied woodpecker
 				  
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3545-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/resized_img_3545/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3545-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3545.jpg)
 
 				Tufted titmouse
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3566-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/resized_img_3566/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3566-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3566.jpg)
 
 				Male cardinal
 				
 
-[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3527a-150x150.jpg)](http://garden.kargs.net/2009/03/21/our-backyard-birds/resized_img_3527a/)
+[![](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3527a-150x150.jpg)](http://garden.kargs.net/wp-content/uploads/2009/03/resized_img_3527a.jpg)
 
 				Eastern Phoebe
 
